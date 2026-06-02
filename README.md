@@ -1,10 +1,5 @@
-# my-first-repo
+## what I Learned Tody
 
-# My Fist Repository
-A bginner GitHub project
-created during the workshop.
-
-## About Me
-My name is **Malith**.
-I am learning GitHub.
-
+I am currently attending a GitHub workshop.
+Today I learned about: - Version control - Creating a reposiory - The edit - commit - push cycle
+My GitHub profile  : http://https://github.com/malithdilshan208-ship-it/my-first-repo#
